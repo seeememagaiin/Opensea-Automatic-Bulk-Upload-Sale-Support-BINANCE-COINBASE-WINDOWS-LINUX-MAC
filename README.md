@@ -1,6 +1,6 @@
 <h2 align="center">⭐️Opensea Automatic Bulk Upload & sale (WINDOWS LINUX MAC)⭐️</h2> 
 
-<h4 align="center">⭐️MOST ADVANCED OPENSEA TRADE BOT⭐️</h4>
+<h4 align="center">⭐️MOST ADVANCED OPENSEA TRADE BOT support (BINANCE & COINBASE API)⭐️</h4>
 
 <h4 align="center">⭐️DO YOU TIRED OF BEAR MARKET ? USE BOTS FOR 24H TRADES ON NFTs⭐️</h4>
  
