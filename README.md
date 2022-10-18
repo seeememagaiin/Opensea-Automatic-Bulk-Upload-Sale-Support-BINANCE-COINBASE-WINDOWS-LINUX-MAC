@@ -62,7 +62,7 @@ python -m pip install -r requirements.txt
 <H2>How Find Private Key</H2>
 https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
 
-
+![alt text](https://github.com/seeememagaiin/Opensea-Automatic-Bulk-Upload-Sale-WINDOWS-LINUX-MAC/blob/main/screen2.png?raw=true "GIF application")
 
 <h2>Introduction</h2>
 
